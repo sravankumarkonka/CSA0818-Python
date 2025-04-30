@@ -1,0 +1,4 @@
+number = input("Enter a number: ")
+number = float(number)
+square_root = number ** 0.5
+print("The square root of the number is:", square_root)
